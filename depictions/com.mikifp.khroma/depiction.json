@@ -1,0 +1,82 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tintColor": "#cc99cc",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "Khroma",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Color your notification badges!"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/screenshots/01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/miki-fp/repo/main/assets/com.mikifp.khroma/screenshots/02.png"
+                        }
+                    ],
+                    "itemSize": "{240, 413.12}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 10
+                },
+                {
+                    "markdown": " Khroma lets you color your notification badges!\n\nWith Khroma, you can:\n* Add borders\n* Change badge colors\n* Change border color\n* Change text color\n* Automatically match the badge color to the app!\n\nTake hold of your notifications! ",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "1.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "April 04, 2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "mikifp",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}
