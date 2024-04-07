@@ -57,7 +57,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.2",
+                    "text": "1.2.1",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },

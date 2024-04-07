@@ -1,14 +1,14 @@
 Package: com.mikifp.khroma
-Version: 1.2
-Architecture: iphoneos-arm
+Version: 1.2.1
+Architecture: iphoneos-arm64
 Maintainer: mikifp
-Installed-Size: 472
+Installed-Size: 488
 Depends: preferenceloader, mobilesubstrate, ws.hbang.alderis (>= 1.1), firmware (>= 16.0)
-Filename: ./debs/com.mikifp.khroma_1.2_iphoneos-arm.deb
-Size: 113808
-MD5sum: 36964acce82790652602deba6da75081
-SHA1: a384a7211542d70a38b636553608926235b0bfba
-SHA256: 100390079a440f8032df8cb8e2be4f2bf1c62d79c7043db300e595b49492c2f8
+Filename: ./debs/com.mikifp.khroma_1.2.1_iphoneos-arm64.deb
+Size: 114472
+MD5sum: 398d3047f4413d6055ad7f92bce54bea
+SHA1: d3419c557c5f1ab49d88732764dd6b53d8f649c2
+SHA256: fe2a7ee9b8dd929e44bc1f3f0a8a8da1dc5310c6a40f7cf83cc63e7e1e3579d0
 Section: Tweaks
 Description: Khroma lets you change you notification badge color!
 Author: mikifp
@@ -17,16 +17,16 @@ Name: Khroma
 Sileodepiction: https://raw.githubusercontent.com/miki-fp/repo/main/depictions/com.mikifp.khroma/depiction.json
 
 Package: com.mikifp.khroma
-Version: 1.2
-Architecture: iphoneos-arm64
+Version: 1.2.1
+Architecture: iphoneos-arm
 Maintainer: mikifp
-Installed-Size: 472
+Installed-Size: 488
 Depends: preferenceloader, mobilesubstrate, ws.hbang.alderis (>= 1.1), firmware (>= 16.0)
-Filename: ./debs/com.mikifp.khroma_1.2_iphoneos-arm64.deb
-Size: 113918
-MD5sum: b3cf6bb2dd6d04275e5e64528c73eace
-SHA1: c1964314cc820569bff900aac0c7306162e47e04
-SHA256: 6725d72322e6cccba87032c5e507174bb407a2939b2203544a78d8e184fa091f
+Filename: ./debs/com.mikifp.khroma_1.2.1_iphoneos-arm.deb
+Size: 114336
+MD5sum: c3b5d2836e09dfade0710f5bc9fc4e15
+SHA1: b219c67c58807ee49558466ebb168ad16617dc17
+SHA256: e5bbc9e9daf51bc69ffca465a7be70087f51c31a2a26d1c4fa0ed88f765d18e6
 Section: Tweaks
 Description: Khroma lets you change you notification badge color!
 Author: mikifp
