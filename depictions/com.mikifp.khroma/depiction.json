@@ -37,7 +37,7 @@
                     "itemCornerRadius": 10
                 },
                 {
-                    "markdown": " Khroma lets you color your notification badges!\n\nWith Khroma, you can:\n* Add borders\n* Change badge colors\n* Change border color\n* Change text color\n* Automatically match the badge color to the app!\n\nTake hold of your notifications! ",
+                    "markdown": " Khroma lets you color your notification badges!\n\nWith Khroma, you can:\n* Add borders\n* Change badge colors\n* Change border color\n* Change text color\n* Automatically match the badge color to the app!\n\nTake hold of your notifications!\n\nVersion 1.2\n* Fixed issues with Snowboard themes\n* Updated algorithm for matching color\n* Updated code to be more efficient\n\nFeel free to contact me with any issues",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
@@ -47,7 +47,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "1.0",
+                    "text": "1.2",
                     "class": "DepictionTableTextView",
                     "title": "Version"
                 },
