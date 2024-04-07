@@ -47,7 +47,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "Version 1.2\n* Fixed issues with Snowboard themes\n* Updated algorithm for matching color\n* Updated code to be more efficient\n* Added button in settings to refresh badges in case of issued (press after messing with snowboard themes)\n\nFeel free to contact me with any issues",
+                    "markdown": "Version 1.2\n* Fixed issues with Snowboard themes\n* Updated algorithm for matching color\n* Updated code to be more efficient\n* Added button in settings to refresh badges in case of issues (press after messing with snowboard themes)\n\nFeel free to contact me with any issues",
                     "class": "DepictionMarkdownView",
                     "useBottomMargin": false,
                     "title": "markdown-description",
